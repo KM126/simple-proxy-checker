@@ -12,7 +12,10 @@ $ git clone https://github.com/KM126/simple-proxy-checker
 $ sudo ruby r.rb 
 
 note : if you encounter any problems with proxies path put them on the same directory the tool is in 
+
 made by KM126
-for any questions 
+
+for any questions :
+
 insta : https://www.instagram.com/abdo_126_/?next=%2F
 
